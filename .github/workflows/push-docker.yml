@@ -32,4 +32,4 @@ jobs:
           context: .
           platforms: linux/arm/v7
           push: true
-          tags: Nirosan03/python-ci:latest
+          tags: nirosan03/python-ci:latest
